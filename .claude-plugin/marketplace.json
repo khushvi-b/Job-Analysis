@@ -1,0 +1,11 @@
+{
+  "name": "Job Analysis tool",
+  "description": "Job Analysis tools Configured for Smarter.Codes",
+  "plugins": [
+    {
+      "name": "job-analysis-plugin",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}
