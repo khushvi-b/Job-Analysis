@@ -1,11 +1,17 @@
 {
-  "name": "Job Analysis tool",
-  "description": "Job Analysis tools Configured for Smarter.Codes",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "job-analysis-plugin",
+  "description": "Job Analysis tools configured for Smarter.Codes",
+  "owner": {
+    "name": "KhushviB",
+    "email": "khushvi.b@smarter.codes"
+  },
   "plugins": [
     {
       "name": "job-analysis-plugin",
+      "description": "Job Analysis plugin for Smarter.Codes",
       "version": "1.0.0",
-      "source": "."
+      "source": "./skills"
     }
   ]
 }
