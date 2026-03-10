@@ -1,4 +1,4 @@
----
+[---
 name: job-analysis
 description: Creates a comprehensive Job Analysis document for any role at Smarter.codes. Use this skill whenever the user wants to create a job analysis, hiring plan, recruitment document, or structured hiring framework for Smarter.codes or any of its products (Kray.ai, Makerz.network, talkingDB) or client work (Synterex). Trigger when the user mentions "job analysis", "hiring analysis", "recruitment plan", "job breakdown", "role analysis", or asks to help hire someone -- even if they just say "help me hire a [role]" or "I need to create a job analysis for [role]". Also trigger when users ask for backlog, core skills, talent persona, job description, compensation benchmarking, or recruitment tests as part of a hiring process.
 ---
@@ -340,3 +340,4 @@ Good-to-Have: 3-4 qualifications
 - [ ] JD approved by product lead / founder
 - [ ] Posted on relevant platforms (LinkedIn, Wellfound, Naukri, etc.)
 - [ ] 30/60/90 milestones shared with candidate at offer stage
+](https://github.com/KhushviB/job-analysis-plugin)
