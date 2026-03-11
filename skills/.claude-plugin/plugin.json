@@ -1,0 +1,12 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "job-analysis-plugin",
+  "version": "1.0.0",
+  "description": "Job Analysis plugin for Smarter.Codes",
+  "skills": [
+    {
+      "name": "job-analysis",
+      "path": "./job-analysis/SKILL.md"
+    }
+  ]
+}
